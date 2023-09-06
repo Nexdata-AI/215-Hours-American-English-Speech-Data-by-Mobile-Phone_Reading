@@ -4,7 +4,8 @@
 ## Description
 The data set contains 349 American English speakers' speech data, all of whom are American locals. It is recorded in quiet environment. The recording contents cover various categories like economics, entertainment, news and spoken language. It is manually transcribed and annotated with the starting and ending time points.
 
-For more details, please refer to the link: https://bit.ly/3xRnmi7
+For more details, please refer to the link: https://www.nexdata.ai/datasets/78?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
